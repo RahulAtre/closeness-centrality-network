@@ -1,0 +1,23 @@
+Testing small_graph_2.edges
+
+Number of nodes in the Graph: 4
+
+Rank:1  Node number: 2  Node CC: 1.0
+
+Adjacent Nodes: 1 4 3
+------------------------------------
+
+Rank:2  Node number: 3  Node CC: 1.0
+
+Adjacent Nodes: 1 2 4
+------------------------------------
+
+Rank:3  Node number: 1  Node CC: 0.75
+
+Adjacent Nodes: 2 3
+------------------------------------
+
+Rank:4  Node number: 4  Node CC: 0.75
+
+Adjacent Nodes: 2 3
+------------------------------------
